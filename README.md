@@ -41,9 +41,16 @@ A solução será completamente construída no Excel, com recursos que tornam a 
 
 ---
 
-## 🧩 Desafio 3: *(em breve)*
+## 🧩 Desafio 3: Dashboard de Vendas no Excel
 
-> 💡 Este espaço está reservado para a descrição do terceiro desafio, que será adicionado futuramente ao projeto.
+O objetivo deste desafio é criar um **dashboard de vendas** com foco na organização e **visualização de dados**.  
+A proposta é transformar dados brutos em informações visuais claras e úteis, permitindo:
+
+- 📊 Análise eficaz do desempenho de vendas  
+- 🎯 Identificação de tendências e oportunidades  
+- 🧠 Tomada de decisões baseada em dados concretos  
+
+A planilha será construída com os principais recursos do Excel voltados para **BI (Business Intelligence)**, com uso de tabelas dinâmicas, gráficos interativos, segmentações e organização inteligente da base de dados.
 
 ---
 
@@ -52,11 +59,13 @@ A solução será completamente construída no Excel, com recursos que tornam a 
 - 📌 **Funções de cálculo**: `SOMA`, `MÉDIA`, `MÁXIMO`, `ARRED` — *[Desafio 1]*
 - 📆 **Funções de data**: `HOJE`, `DIA`, `MÊS`, `ANO`, `DATADIF` — *[Desafio 1 e 2]*
 - ✅ **Validação de dados** e listas suspensas — *[Desafio 1 e 2]*
-- 🎯 **Formatação condicional** para destacar resultados relevantes — *[Desafio 1]*
-- 📊 **Gráficos dinâmicos** e dashboard de acompanhamento — *[Desafio 1]*
-- 🔍 **Tabelas inteligentes** com filtros e ordenações automáticas — *[Desafio 1]*
+- 🎯 **Formatação condicional** para destacar resultados relevantes — *[Desafio 1 e 3]*
+- 📊 **Gráficos dinâmicos** e dashboard de acompanhamento — *[Desafio 1 e 3]*
+- 🔍 **Tabelas inteligentes** com filtros e ordenações automáticas — *[Desafio 1 e 3]*
 - 🔗 **Links rápidos e menus de navegação** — *[Desafio 2]*
-- ⚙️ **Automatização de análises** com base em critérios definidos pelo usuário — *[Desafio 2]*
+- ⚙️ **Automatização de análises** com base em critérios definidos pelo usuário — *[Desafio 2 e 3]*
+- 📈 **Segmentações de dados** para análise interativa — *[Desafio 3]*
+- 🧩 **Painel visual (dashboard) com KPIs e filtros** — *[Desafio 3]*
 
 ---
 
@@ -71,8 +80,8 @@ A solução será completamente construída no Excel, com recursos que tornam a 
 
 ## 📌 Status
 
-✅ Desafios 1 e 2 concluídos e funcionais  
-📦 Desafio 3 em desenvolvimento — melhorias futuras serão adicionadas
+✅ Desafios 1, 2 concluídos e funcionais  
+🚧 Desafio 3 em desenvolvimento — melhorias futuras serão adicionadas
 
 ---
 
